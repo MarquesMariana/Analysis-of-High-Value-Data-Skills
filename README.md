@@ -4,9 +4,13 @@ The aim of this analysis is to identify key trends, skills, and opportunities in
 
 ## Portugal Highlights
 Top Locations: Lisbon leads in job opportunities, followed by Porto.
+
 Job Demand: Data Analysts, Data engineers and Data scientists are jobs with higher job postings 
+
 Key Employers: Jooble-PT and BNP Paribas are the biggest recruiters.
+
 Salaries: Data Analysts in Portugal earn in average between €89,204 to €111,175 annually.
+
 Remote Work: Only 10% of jobs offer remote opportunities, with most roles requiring on-site or hybrid arrangements.
 
 ## Key Insights
