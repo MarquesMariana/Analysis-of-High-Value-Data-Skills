@@ -1,7 +1,7 @@
 # Data Job Market Analysis
 ## Overview
 
-The aim of this analysis is to identify key trends, skills, and opportunities in the data job market, helping professionals make informed decisions about career development and organizations optimize hiring strategies.
+The aim of this analysis is to identify key trends, skills, and opportunities in the data job market, helping professionals make informed decisions about career development.
 
 ## Portugal Highlights
 Top Locations: Lisbon leads in job opportunities, followed by Porto.
