@@ -1,5 +1,6 @@
 # Data Job Market Analysis
 ## Overview
+
 The aim of this analysis is to identify key trends, skills, and opportunities in the data job market, helping professionals make informed decisions about career development and organizations optimize hiring strategies.
 
 ## Portugal Highlights
